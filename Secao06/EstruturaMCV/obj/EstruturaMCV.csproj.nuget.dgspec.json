@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\OneDrive\\Cursos\\Udemy\\DotNetCore\\GIT\\ASPNETCoreMVCLojaVirtualCurso\\Secao02\\PrimeiroProjeto\\PrimeiroProjeto\\PrimeiroProjeto.csproj": {}
+    "D:\\OneDrive\\Cursos\\Udemy\\DotNetCore\\GIT\\ASPNETCoreMVCLojaVirtualCurso\\Secao06\\EstruturaMCV\\EstruturaMCV.csproj": {}
   },
   "projects": {
-    "D:\\OneDrive\\Cursos\\Udemy\\DotNetCore\\GIT\\ASPNETCoreMVCLojaVirtualCurso\\Secao02\\PrimeiroProjeto\\PrimeiroProjeto\\PrimeiroProjeto.csproj": {
+    "D:\\OneDrive\\Cursos\\Udemy\\DotNetCore\\GIT\\ASPNETCoreMVCLojaVirtualCurso\\Secao06\\EstruturaMCV\\EstruturaMCV.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\OneDrive\\Cursos\\Udemy\\DotNetCore\\GIT\\ASPNETCoreMVCLojaVirtualCurso\\Secao02\\PrimeiroProjeto\\PrimeiroProjeto\\PrimeiroProjeto.csproj",
-        "projectName": "PrimeiroProjeto",
-        "projectPath": "D:\\OneDrive\\Cursos\\Udemy\\DotNetCore\\GIT\\ASPNETCoreMVCLojaVirtualCurso\\Secao02\\PrimeiroProjeto\\PrimeiroProjeto\\PrimeiroProjeto.csproj",
+        "projectUniqueName": "D:\\OneDrive\\Cursos\\Udemy\\DotNetCore\\GIT\\ASPNETCoreMVCLojaVirtualCurso\\Secao06\\EstruturaMCV\\EstruturaMCV.csproj",
+        "projectName": "EstruturaMCV",
+        "projectPath": "D:\\OneDrive\\Cursos\\Udemy\\DotNetCore\\GIT\\ASPNETCoreMVCLojaVirtualCurso\\Secao06\\EstruturaMCV\\EstruturaMCV.csproj",
         "packagesPath": "C:\\Users\\lcmnu\\.nuget\\packages\\",
-        "outputPath": "D:\\OneDrive\\Cursos\\Udemy\\DotNetCore\\GIT\\ASPNETCoreMVCLojaVirtualCurso\\Secao02\\PrimeiroProjeto\\PrimeiroProjeto\\obj\\",
+        "outputPath": "D:\\OneDrive\\Cursos\\Udemy\\DotNetCore\\GIT\\ASPNETCoreMVCLojaVirtualCurso\\Secao06\\EstruturaMCV\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\",
