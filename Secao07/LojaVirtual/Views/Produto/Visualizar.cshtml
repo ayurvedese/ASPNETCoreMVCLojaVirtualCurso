@@ -1,0 +1,21 @@
+﻿@model LojaVirtual.Models.Produto
+
+<h3>Produto -> Visualizar</h3>
+
+=D
+
+Razor:
+
+@{
+    string nome = "Lucas Campos.";
+}
+
+<br />
+<h2>Produto:</h2>
+<b>Nome: </b> @Model.nome <br/>
+<b>Descrição: </b> @Model.descricao <br />
+<b>Valor </b> @Model.valor.ToString("C"); <br />
+
+
+<br />
+Todos os direitos reservados &copy; @DateTime.Now - Desenvolvido por: <h3>@nome</h3>
