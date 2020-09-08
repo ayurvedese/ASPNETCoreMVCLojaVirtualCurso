@@ -30,7 +30,7 @@ namespace LojaVirtual.Controllers
             return new ContentResult() {Content = String.Format("Dados enviados com sucesso. <br/> Nome: {0}. <br/> E-mail: {1}. <br/> Texto: {2}",
                 c.Nome, c.Email, c.Texto), ContentType = "text/html"};
 
-            ContatoEmail.EnviarContatoPorEmail(c);
+            //ContatoEmail.EnviarContatoPorEmail(c);
         }
 
         public IActionResult Login()

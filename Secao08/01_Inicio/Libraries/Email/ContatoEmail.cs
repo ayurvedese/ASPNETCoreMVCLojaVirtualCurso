@@ -16,7 +16,7 @@ namespace LojaVirtual.Libraries.Email
             //Configurando o servidor de SMTP
             SmtpClient smtp = new SmtpClient("relay-hosting.secureserver.net", 25);
             smtp.UseDefaultCredentials = false;
-            smtp.Credentials = new NetworkCredential("lucas.campos@ayurvedese.net", "lcmnune5");
+            smtp.Credentials = new NetworkCredential("lucas.campos@ayurvedese.net", "");
             smtp.EnableSsl = false;
 
             //Configurando a mensagem de e-mail
